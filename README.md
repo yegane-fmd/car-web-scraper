@@ -17,7 +17,8 @@ Setup
 	•	pip install -r requirements.txt
 	•	Setup MySQL database and update credentials in the code
 
-و بعد:
+
+and then ...
 
 ```bash
 git add README.md
