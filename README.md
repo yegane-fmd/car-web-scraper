@@ -18,7 +18,7 @@ Setup
 	•	Setup MySQL database and update credentials in the code
 
 
-and then ...
+and then :
 
 ```bash
 git add README.md
